@@ -35,7 +35,7 @@ Team photos:
 <img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/TEAM%20PHOTOS/Official%20photo.jpg" width="500px">
 
 
--	Play with car
+-	Funny photos
 
 
 <img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/TEAM%20PHOTOS/Play%20with%20car.jpg" width="500px">
@@ -120,7 +120,7 @@ Sensors:
 
 
 
-<img src="[https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/45602_Prod_01-scaled.webp](https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/R%20(1).jpg)" width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/R%20(1).jpg" width="500px">
 
 
 
