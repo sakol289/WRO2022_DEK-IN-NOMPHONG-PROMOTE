@@ -28,79 +28,40 @@ Team photos:
 	Official photo
 
 
-
-
-
-
-
-
-
-
-
-
-
-	Funny photo
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/TEAM%20PHOTOS/Official%20photo.jpg" width="500px">
 
 
 	Play with car
 
 
-
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/TEAM%20PHOTOS/Play%20with%20car.jpg" width="500px">
 
 
 Vehicle photos: Below are the photos of the 6 view of the self driving autonomous car.
 
 	FRONT VIEW
 
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/VEHICLE%20PHOTOS/front.jpg" width="500px">
 
 	BACK VIEW
 
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/VEHICLE%20PHOTOS/back.jpg" width="500px">
 
 	LEFT VIEW
 
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/VEHICLE%20PHOTOS/left.jpg" width="500px">
 
 	RIGHT VIEW
 
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/VEHICLE%20PHOTOS/right.jpg" width="500px">
 
 	TOP VIEW
 
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/VEHICLE%20PHOTOS/top.jpg" width="500px">
 
 	BOTTOM VIEW
 
-
-
-
-
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/VEHICLE%20PHOTOS/bottom.jpg" width="500px">
 
 
 Link to YouTube video:
@@ -112,8 +73,7 @@ SCHEMATIC DIAGRAM:
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks,) used in building the DEK IN NOMPHONG PROMOTE bot
 
 
-
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/DIAGRAM/diagram.png" width="500px">
 
 
 CODES:
