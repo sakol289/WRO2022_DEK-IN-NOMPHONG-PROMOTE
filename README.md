@@ -112,7 +112,7 @@ Sensors:
 
 
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/COLOR.jpg"width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/COLOR.jpg" width="500px">
 
 
 
