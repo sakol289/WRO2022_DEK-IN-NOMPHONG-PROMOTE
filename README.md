@@ -72,9 +72,9 @@ Link to YouTube video:
 
 ***********************************
 
-
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=D8jFPgSdbA4)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=D8jFPgSdbA4) "cybersafe yt url")
-SCHEMATIC DIAGRAM:
+<a href="https://www.youtube.com/watch?v=D8jFPgSdbA4">
+  <img align="center" src="https://yt-embed.herokuapp.com/embed?v=D8jFPgSdbA4" />
+</a>
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks,) used in building the DEK IN NOMPHONG PROMOTE bot
 
