@@ -72,6 +72,8 @@ Link to YouTube video:
 
 ***********************************
 
+
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=D8jFPgSdbA4)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=D8jFPgSdbA4) "cybersafe yt url")
 SCHEMATIC DIAGRAM:
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks,) used in building the DEK IN NOMPHONG PROMOTE bot
@@ -244,6 +246,6 @@ The programming platform used for the coding of the self driving robot is Lego s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakol289&repo=WRO2022_DEK-IN-NOMPHONG-PROMOTE&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/sakol289/dirb">
+<a href="https://github.com/sakol289">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakol289&repo=WRO2022_DEK-IN-NOMPHONG-PROMOTE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
